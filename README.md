@@ -4,12 +4,14 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/JanavGandhi/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/JanavGandhi/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/JanavGandhi/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JanavGandhi/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/JanavGandhi/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/JanavGandhi/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/JanavGandhi/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JanavGandhi/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
