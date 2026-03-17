@@ -1,17 +1,15 @@
 class Solution:
     def smallerNumbersThanCurrent(self, nums: List[int]) -> List[int]:
-        temp = sorted(nums)
+        n = sorted(nums)   
 
-        d = {}
+        hashMap = {}
 
-        for i,num in enumerate(temp):
-            if num not in d:
-                d[num] = i 
-        
+        for index, val in enumerate(n):
+            if val not in hashMap:
+                hashMap[val] = index
+
         ret = []
-
         for i in nums:
-            ret.append(d[i])
+            ret.append(hashMap[i])
 
         return ret
-        
