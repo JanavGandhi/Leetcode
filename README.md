@@ -51,4 +51,12 @@
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/JanavGandhi/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/JanavGandhi/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/JanavGandhi/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/JanavGandhi/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
