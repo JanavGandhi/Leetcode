@@ -56,6 +56,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/JanavGandhi/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0125-valid-palindrome](https://github.com/JanavGandhi/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,5 +69,6 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/JanavGandhi/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/JanavGandhi/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 <!---LeetCode Topics End-->
